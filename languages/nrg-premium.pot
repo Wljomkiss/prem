@@ -1,0 +1,1186 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-05-18 13:53+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: 404.php:15
+msgid "404"
+msgstr ""
+
+#: comments.php:16
+msgid "0"
+msgstr ""
+
+#: comments.php:16
+msgid "1"
+msgstr ""
+
+#: comments.php:16
+msgid "%"
+msgstr ""
+
+#: comments.php:16
+msgid " Comments "
+msgstr ""
+
+#: comments.php:20
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:21
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: functions.php:33
+msgid "Primary menu"
+msgstr ""
+
+#: functions.php:34
+msgid "Footer menu"
+msgstr ""
+
+#: functions.php:35
+msgid "Photography menu"
+msgstr ""
+
+#: functions.php:36
+msgid "Onepage menu 1"
+msgstr ""
+
+#: functions.php:37
+msgid "Onepage menu 2"
+msgstr ""
+
+#: functions.php:38
+msgid "Onepage menu 3"
+msgstr ""
+
+#: single.php:80
+msgid "Pages:"
+msgstr ""
+
+#: envato_setup/envato_setup.php:86
+msgid "Setup Theme and Import Demo"
+msgstr ""
+
+#: envato_setup/envato_setup.php:86
+msgid "Setup and Import Demo"
+msgstr ""
+
+#: envato_setup/envato_setup.php:99
+msgid "Introduction"
+msgstr ""
+
+#: envato_setup/envato_setup.php:106
+msgid "Plugins"
+msgstr ""
+
+#: envato_setup/envato_setup.php:112
+msgid "Content"
+msgstr ""
+
+#: envato_setup/envato_setup.php:117
+msgid "Customize"
+msgstr ""
+
+#: envato_setup/envato_setup.php:122
+msgid "Support"
+msgstr ""
+
+#: envato_setup/envato_setup.php:127
+msgid "Ready!"
+msgstr ""
+
+#: envato_setup/envato_setup.php:143
+msgid "...verifying"
+msgstr ""
+
+#: envato_setup/envato_setup.php:195
+msgid "Envato install theme"
+msgstr ""
+
+#: envato_setup/envato_setup.php:207
+msgid "Return to the WordPress Dashboard"
+msgstr ""
+
+#: envato_setup/envato_setup.php:292
+msgid "Current Settings:"
+msgstr ""
+
+#: envato_setup/envato_setup.php:293
+msgid "Widget Positions:"
+msgstr ""
+
+#: envato_setup/envato_setup.php:295
+msgid "Widget Options:"
+msgstr ""
+
+#: envato_setup/envato_setup.php:297
+msgid "Menu IDs:"
+msgstr ""
+
+#: envato_setup/envato_setup.php:299
+msgid "Custom Options:"
+msgstr ""
+
+#: envato_setup/envato_setup.php:301
+msgid ""
+"Copy these values into your PHP code when distributing/updating the theme."
+msgstr ""
+
+#: envato_setup/envato_setup.php:305
+msgid "Welcome to the setup themes!"
+msgstr ""
+
+#: envato_setup/envato_setup.php:306
+msgid ""
+"This quick setup wizard will help you configure your new website. This "
+"wizard will install the required WordPress plugins, default content, logo "
+"and tell you a little about Help &amp; Support options. It should only take "
+"5 minutes."
+msgstr ""
+
+#: envato_setup/envato_setup.php:307
+msgid ""
+"No time right now? If you don't want to go through the wizard, you can skip "
+"and return to the WordPress dashboard. Come back anytime if you change your "
+"mind!"
+msgstr ""
+
+#: envato_setup/envato_setup.php:310
+msgid "Let's Go!"
+msgstr ""
+
+#: envato_setup/envato_setup.php:312
+msgid "Not right now"
+msgstr ""
+
+#: envato_setup/envato_setup.php:384
+msgid "Default Plugins"
+msgstr ""
+
+#: envato_setup/envato_setup.php:391
+msgid ""
+"Your website needs a few essential plugins. The following plugins will be "
+"installed:"
+msgstr ""
+
+#: envato_setup/envato_setup.php:410
+msgid ""
+"Good news! All plugins are already installed and up to date. Please continue."
+msgstr ""
+
+#: envato_setup/envato_setup.php:413
+msgid "You can add and remove plugins later on from within WordPress."
+msgstr ""
+
+#: envato_setup/envato_setup.php:416 envato_setup/envato_setup.php:564
+#: envato_setup/envato_setup.php:773 envato_setup/envato_setup.php:847
+#: envato_setup/envato_setup.php:900
+msgid "Continue"
+msgstr ""
+
+#: envato_setup/envato_setup.php:417 envato_setup/envato_setup.php:565
+#: envato_setup/envato_setup.php:774 envato_setup/envato_setup.php:859
+msgid "Skip this step"
+msgstr ""
+
+#: envato_setup/envato_setup.php:427
+msgid "No Slug Found"
+msgstr ""
+
+#: envato_setup/envato_setup.php:443
+msgid "Activating Plugin"
+msgstr ""
+
+#: envato_setup/envato_setup.php:458
+msgid "Updating Plugin"
+msgstr ""
+
+#: envato_setup/envato_setup.php:473
+msgid "Installing Plugin"
+msgstr ""
+
+#: envato_setup/envato_setup.php:483
+msgid "Success"
+msgstr ""
+
+#: envato_setup/envato_setup.php:495
+msgid "Pages"
+msgstr ""
+
+#: envato_setup/envato_setup.php:496
+msgid "This will create default pages as seen in the demo."
+msgstr ""
+
+#: envato_setup/envato_setup.php:497 envato_setup/envato_setup.php:505
+#: envato_setup/envato_setup.php:513 envato_setup/envato_setup.php:521
+msgid "Pending."
+msgstr ""
+
+#: envato_setup/envato_setup.php:498
+msgid "Installing Default Pages."
+msgstr ""
+
+#: envato_setup/envato_setup.php:499 envato_setup/envato_setup.php:507
+#: envato_setup/envato_setup.php:515 envato_setup/envato_setup.php:523
+msgid "Success."
+msgstr ""
+
+#: envato_setup/envato_setup.php:503
+msgid "Settings"
+msgstr ""
+
+#: envato_setup/envato_setup.php:504
+msgid "Configure default settings."
+msgstr ""
+
+#: envato_setup/envato_setup.php:506
+msgid "Installing Default Settings."
+msgstr ""
+
+#: envato_setup/envato_setup.php:511
+msgid "Customize options"
+msgstr ""
+
+#: envato_setup/envato_setup.php:512
+msgid "Configure default customize settings"
+msgstr ""
+
+#: envato_setup/envato_setup.php:514 envato_setup/envato_setup.php:522
+msgid "Installing Default Customize Settings."
+msgstr ""
+
+#: envato_setup/envato_setup.php:519
+msgid "Theme options"
+msgstr ""
+
+#: envato_setup/envato_setup.php:520
+msgid "Configure default theme options"
+msgstr ""
+
+#: envato_setup/envato_setup.php:535
+msgid "Default Content"
+msgstr ""
+
+#: envato_setup/envato_setup.php:537
+msgid ""
+"It's time to insert some default content for your new WordPress website. "
+"Choose what you would like inserted below and click Continue."
+msgstr ""
+
+#: envato_setup/envato_setup.php:542
+msgid "Item"
+msgstr ""
+
+#: envato_setup/envato_setup.php:543
+msgid "Description"
+msgstr ""
+
+#: envato_setup/envato_setup.php:544
+msgid "Status"
+msgstr ""
+
+#: envato_setup/envato_setup.php:561
+msgid ""
+"Once inserted, this content can be managed from the WordPress admin "
+"dashboard."
+msgstr ""
+
+#: envato_setup/envato_setup.php:576
+msgid "No content Found"
+msgstr ""
+
+#: envato_setup/envato_setup.php:611
+msgid "Error"
+msgstr ""
+
+#: envato_setup/envato_setup.php:727
+msgid "Logo &amp; Design"
+msgstr ""
+
+#: envato_setup/envato_setup.php:729
+msgid ""
+"Please add your logo below. For best results, the logo should be a "
+"transparent PNG ( 190 by 35 pixels). The logo can be changed at any time "
+"from the Appearance > Customize area in your dashboard."
+msgstr ""
+
+#: envato_setup/envato_setup.php:747
+msgid "Upload New Logo"
+msgstr ""
+
+#: envato_setup/envato_setup.php:753
+msgid ""
+"Please choose the color scheme for this website. The color scheme (along "
+"with font colors &amp; styles) can be changed at any time from the "
+"Appearance > Customize area in your dashboard."
+msgstr ""
+
+#: envato_setup/envato_setup.php:820
+msgid "Theme Updates"
+msgstr ""
+
+#: envato_setup/envato_setup.php:843 envato_setup/envato_setup.php:853
+msgid ""
+"When an update becomes available it will show in the Dashboard with an "
+"option to install."
+msgstr ""
+
+#: envato_setup/envato_setup.php:844
+msgid ""
+"Change settings from the 'Envato Market' menu in the WordPress Dashboard."
+msgstr ""
+
+#: envato_setup/envato_setup.php:852
+msgid ""
+"Please login using your ThemeForest account to enable Theme Updates. We "
+"update themes when a new feature is added or a bug is fixed. It is highly "
+"recommended to enable Theme Updates."
+msgstr ""
+
+#: envato_setup/envato_setup.php:855
+msgid ""
+"On the next page you will be asked to Login with your ThemeForest account "
+"and grant permissions to enable Automatic Updates."
+msgstr ""
+
+#: envato_setup/envato_setup.php:858 envato_setup/envato_setup.php:1186
+msgid "Login with Envato"
+msgstr ""
+
+#: envato_setup/envato_setup.php:865
+msgid "Please ensure the Envato Market plugin has been installed correctly. "
+msgstr ""
+
+#: envato_setup/envato_setup.php:865
+msgid "Return to Required Plugins installer"
+msgstr ""
+
+#: envato_setup/envato_setup.php:887
+msgid "Theme Customization"
+msgstr ""
+
+#: envato_setup/envato_setup.php:889
+msgid ""
+"Most changes to the website can be made through the Appearance > Customize "
+"menu from the WordPress dashboard."
+msgstr ""
+
+#: envato_setup/envato_setup.php:891
+msgid ""
+"To change the Sidebars go to Appearance > Widgets. Here widgets can be "
+"\"drag &amp; droped\" into sidebars. To control which \"widget areas\" "
+"appear, go to an individual page and look for the \"Left/Right Column\" menu."
+" Here widgets can be chosen for display on the left or right of a page. More "
+"details in documentation."
+msgstr ""
+
+#: envato_setup/envato_setup.php:894
+msgid ""
+"Advanced Users: If you are going to make changes to the theme source code "
+"please use a"
+msgstr ""
+
+#: envato_setup/envato_setup.php:895
+msgid "Child Theme"
+msgstr ""
+
+#: envato_setup/envato_setup.php:896
+#, php-format
+msgid ""
+"rather than modifying the main theme HTML/CSS/PHP code. This allows the "
+"parent theme to receive updates without overwriting your source code changes."
+" %s See %s in the main folder for a sample."
+msgstr ""
+
+#: envato_setup/envato_setup.php:907
+msgid "Help and Support"
+msgstr ""
+
+#: envato_setup/envato_setup.php:908
+msgid ""
+"This theme comes with 6 months item support from purchase date (with the "
+"option to extend this period). This license allows you to use this theme on "
+"a single website. Please purchase an additional license to use this theme on "
+"another website."
+msgstr ""
+
+#: envato_setup/envato_setup.php:911
+#, php-format
+msgid "Item Support can be accessed from %s and includes: "
+msgstr ""
+
+#: envato_setup/envato_setup.php:913
+msgid "Availability of the author to answer questions"
+msgstr ""
+
+#: envato_setup/envato_setup.php:914
+msgid "Answering technical questions about item features"
+msgstr ""
+
+#: envato_setup/envato_setup.php:915
+msgid "Assistance with reported bugs and issues"
+msgstr ""
+
+#: envato_setup/envato_setup.php:916
+msgid "Help with bundled 3rd party plugins"
+msgstr ""
+
+#: envato_setup/envato_setup.php:918
+#, php-format
+msgid "Item Support %s Include:"
+msgstr ""
+
+#: envato_setup/envato_setup.php:920
+msgid "Customization services"
+msgstr ""
+
+#: envato_setup/envato_setup.php:921
+msgid "Installation services"
+msgstr ""
+
+#: envato_setup/envato_setup.php:922
+msgid ""
+"Help and Support for non-bundled 3rd party plugins (i.e. plugins you install "
+"yourself later on)"
+msgstr ""
+
+#: envato_setup/envato_setup.php:927
+msgid "More details about item support can be found in the ThemeForest"
+msgstr ""
+
+#: envato_setup/envato_setup.php:927
+msgid "Item Support Polity"
+msgstr ""
+
+#: envato_setup/envato_setup.php:929
+msgid "Agree and Continue"
+msgstr ""
+
+#: envato_setup/envato_setup.php:941
+msgid "Your Website is Ready!"
+msgstr ""
+
+#: envato_setup/envato_setup.php:943
+msgid ""
+"Congratulations! The theme has been activated and your website is ready. "
+"Login to your WordPress dashboard to make changes and modify any of the "
+"default content to suit your needs."
+msgstr ""
+
+#: envato_setup/envato_setup.php:947
+msgid "Next Steps"
+msgstr ""
+
+#: envato_setup/envato_setup.php:949
+msgid "VIEW YOUR NEW WEBSITE!"
+msgstr ""
+
+#: envato_setup/envato_setup.php:953
+msgid "More Resources"
+msgstr ""
+
+#: envato_setup/envato_setup.php:955
+msgid "Read the Theme Documentation"
+msgstr ""
+
+#: envato_setup/envato_setup.php:956
+msgid "Learn how to use WordPress"
+msgstr ""
+
+#: envato_setup/envato_setup.php:1004
+#, php-format
+msgid "Something went wrong while trying to retrieve oauth token: %s"
+msgstr ""
+
+#: envato_setup/envato_setup.php:1013
+msgid "Failed to get oAuth token. Please go back and try again"
+msgstr ""
+
+#: envato_setup/envato_setup.php:1021
+#, php-format
+msgid "Login for %s updates"
+msgstr ""
+
+#: envato_setup/envato_setup.php:1028
+msgid "oAuth Login"
+msgstr ""
+
+#: envato_setup/envato_setup.php:1079
+msgid ""
+"Something went wrong while trying to retrieve oauth token: $error_message"
+msgstr ""
+
+#: envato_setup/envato_setup.php:1177
+msgid ""
+"If you have purchased items from dtbaker on ThemeForest or CodeCanyon please "
+"login here for quick and easy updates. Items include: xxxx yyyy zzzz"
+msgstr ""
+
+#: template-parts/content-aside.php:29 template-parts/content-audio.php:30
+#: template-parts/content-default.php:30 template-parts/content-gallery.php:30
+#: template-parts/content-image.php:30 template-parts/content-link.php:30
+#: template-parts/content-quote.php:29 template-parts/content-video.php:29
+msgid "read more"
+msgstr ""
+
+#: template-parts/content-none.php:13
+msgid "There are no results for your request"
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Try to search for another request"
+msgstr ""
+
+#: template-parts/content-none.php:16
+msgid "Back Home"
+msgstr ""
+
+#: woocommerce/content-product.php:28
+msgid "hot"
+msgstr ""
+
+#: woocommerce/content-product.php:31
+msgid "Hot"
+msgstr ""
+
+#: woocommerce/content-product.php:33
+msgid "quick view"
+msgstr ""
+
+#: woocommerce/content-product.php:36
+msgid "viev more"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:30
+msgid "Edit title"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:39
+msgid "Save"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:43
+msgid "Cancel"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:71
+msgid "Product Name"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:76
+msgid "Unit Price"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:86
+msgid "Stock Status"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:126 woocommerce/wishlist-view.php:224
+msgid "Remove this product"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:154
+msgid "Free!"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:164
+msgid "Out of Stock"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:167
+msgid "In Stock"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:177
+#, php-format
+msgid "Added on : %s"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:194
+msgid "Move"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:205
+msgid "Shared"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:208
+msgid "Private"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:211
+msgid "Public"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:224
+msgid "Remove"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:234
+msgid "No products were added to the wishlist"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:251
+msgid "Add the selected products to the cart"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:259 woocommerce/wishlist-view.php:300
+msgid "Ask for an estimate"
+msgstr ""
+
+#: envato_setup/importer/parsers.php:43 envato_setup/importer/parsers.php:77
+#: envato_setup/importer/parsers.php:85
+msgid "There was an error when reading this WXR file"
+msgstr ""
+
+#: envato_setup/importer/parsers.php:44
+msgid ""
+"Details are shown above. The importer will now try again with a different "
+"parser..."
+msgstr ""
+
+#: envato_setup/importer/parsers.php:89 envato_setup/importer/parsers.php:94
+#: envato_setup/importer/parsers.php:287 envato_setup/importer/parsers.php:476
+msgid ""
+"This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr ""
+
+#: envato_setup/importer/wordpress-importer.php:124
+#: envato_setup/importer/wordpress-importer.php:133
+#: envato_setup/importer/wordpress-importer.php:184
+#: envato_setup/importer/wordpress-importer.php:188
+#: envato_setup/importer/wordpress-importer.php:197
+msgid "Sorry, there has been an error."
+msgstr ""
+
+#: envato_setup/importer/wordpress-importer.php:125
+msgid "The file does not exist, please try again."
+msgstr ""
+
+#: envato_setup/importer/wordpress-importer.php:168
+msgid "All done."
+msgstr ""
+
+#: envato_setup/importer/wordpress-importer.php:168
+msgid "Have fun!"
+msgstr ""
+
+#: envato_setup/importer/wordpress-importer.php:169
+msgid "Remember to update the passwords and roles of imported users."
+msgstr ""
+
+#: envato_setup/importer/wordpress-importer.php:189
+#, php-format
+msgid ""
+"The export file could not be found at <code>%s</code>. It is likely that "
+"this was caused by a permissions problem."
+msgstr ""
+
+#: envato_setup/importer/wordpress-importer.php:205
+#, php-format
+msgid ""
+"This WXR file (version %s) may not be supported by this version of the "
+"importer. Please consider updating."
+msgstr ""
+
+#: envato_setup/importer/wordpress-importer.php:230
+#, php-format
+msgid ""
+"Failed to import author %s. Their posts will be attributed to the current "
+"user."
+msgstr ""
+
+#: envato_setup/importer/wordpress-importer.php:256
+msgid "Assign Authors"
+msgstr ""
+
+#: envato_setup/importer/wordpress-importer.php:257
+msgid ""
+"To make it easier for you to edit and save the imported content, you may "
+"want to reassign the author of the imported item to an existing user of this "
+"site. For example, you may want to import all the entries as <code>"
+"admin</code>s entries."
+msgstr ""
+
+#: envato_setup/importer/wordpress-importer.php:259
+#, php-format
+msgid ""
+"If a new user is created by WordPress, a new password will be randomly "
+"generated and the new user&#8217;s role will be set as %s. Manually changing "
+"the new user&#8217;s details will be necessary."
+msgstr ""
+
+#: envato_setup/importer/wordpress-importer.php:269
+msgid "Import Attachments"
+msgstr ""
+
+#: envato_setup/importer/wordpress-importer.php:272
+msgid "Download and import file attachments"
+msgstr ""
+
+#: envato_setup/importer/wordpress-importer.php:289
+msgid "Import author:"
+msgstr ""
+
+#: envato_setup/importer/wordpress-importer.php:300
+msgid "or create new user with login name:"
+msgstr ""
+
+#: envato_setup/importer/wordpress-importer.php:303
+msgid "as a new user:"
+msgstr ""
+
+#: envato_setup/importer/wordpress-importer.php:311
+msgid "assign posts to an existing user:"
+msgstr ""
+
+#: envato_setup/importer/wordpress-importer.php:313
+msgid "or assign posts to an existing user:"
+msgstr ""
+
+#: envato_setup/importer/wordpress-importer.php:314
+msgid "- Select -"
+msgstr ""
+
+#: envato_setup/importer/wordpress-importer.php:364
+#, php-format
+msgid ""
+"Failed to create new user for %s. Their posts will be attributed to the "
+"current user."
+msgstr ""
+
+#: envato_setup/importer/wordpress-importer.php:415
+#, php-format
+msgid "Failed to import category %s"
+msgstr ""
+
+#: envato_setup/importer/wordpress-importer.php:455
+#, php-format
+msgid "Failed to import post tag %s"
+msgstr ""
+
+#: envato_setup/importer/wordpress-importer.php:501
+#: envato_setup/importer/wordpress-importer.php:642
+#, php-format
+msgid "Failed to import %s %s"
+msgstr ""
+
+#: envato_setup/importer/wordpress-importer.php:527
+#, php-format
+msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+msgstr ""
+
+#: envato_setup/importer/wordpress-importer.php:549
+#, php-format
+msgid "%s &#8220;%s&#8221; already exists."
+msgstr ""
+
+#: envato_setup/importer/wordpress-importer.php:608
+#, php-format
+msgid "Failed to import %s &#8220;%s&#8221;"
+msgstr ""
+
+#: envato_setup/importer/wordpress-importer.php:773
+msgid "Menu item skipped due to missing menu slug"
+msgstr ""
+
+#: envato_setup/importer/wordpress-importer.php:780
+#, php-format
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr ""
+
+#: envato_setup/importer/wordpress-importer.php:843
+msgid "Fetching attachments is not enabled"
+msgstr ""
+
+#: envato_setup/importer/wordpress-importer.php:856
+msgid "Invalid file type"
+msgstr ""
+
+#: envato_setup/importer/wordpress-importer.php:914
+#, php-format
+msgid "Remote server returned %1$d %2$s for %3$s"
+msgstr ""
+
+#: envato_setup/importer/wordpress-importer.php:927
+msgid "Remote file is incorrect size"
+msgstr ""
+
+#: envato_setup/importer/wordpress-importer.php:932
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: envato_setup/importer/wordpress-importer.php:938
+#, php-format
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: envato_setup/importer/wordpress-importer.php:1037
+msgid "Import WordPress"
+msgstr ""
+
+#: envato_setup/importer/wordpress-importer.php:1044
+#, php-format
+msgid ""
+"A new version of this importer is available. Please update to version %s to "
+"ensure compatibility with newer export files."
+msgstr ""
+
+#: envato_setup/importer/wordpress-importer.php:1059
+msgid ""
+"Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll import "
+"the posts, pages, comments, custom fields, categories, and tags into this "
+"site."
+msgstr ""
+
+#: envato_setup/importer/wordpress-importer.php:1060
+msgid "Choose a WXR (.xml) file to upload, then click Upload file and import."
+msgstr ""
+
+#: envato_setup/importer/wordpress-importer.php:1135
+msgid ""
+"Import <strong>posts, pages, comments, custom fields, categories, and "
+"tags</strong> from a WordPress export file."
+msgstr ""
+
+#: include/custom/action-config.php:36
+msgid "Sidebar"
+msgstr ""
+
+#: include/custom/action-config.php:41 include/custom/action-config.php:52
+#: include/custom/action-config.php:63 include/custom/action-config.php:74
+#: include/custom/action-config.php:85 include/custom/action-config.php:96
+#: include/custom/action-config.php:107
+msgid "Drag the widgets for sidebars."
+msgstr ""
+
+#: include/custom/action-config.php:47
+msgid "Shop sidebar"
+msgstr ""
+
+#: include/custom/action-config.php:58
+msgid "Magazine 2 sidebar"
+msgstr ""
+
+#: include/custom/action-config.php:69
+msgid "Footer sidebar 1"
+msgstr ""
+
+#: include/custom/action-config.php:80
+msgid "Footer sidebar 2"
+msgstr ""
+
+#: include/custom/action-config.php:91
+msgid "Footer sidebar 3"
+msgstr ""
+
+#: include/custom/action-config.php:102
+msgid "Footer sidebar 4"
+msgstr ""
+
+#: include/custom/action-config.php:156
+msgid "Contact Form 7"
+msgstr ""
+
+#: include/custom/action-config.php:165
+msgid "WooCommerce"
+msgstr ""
+
+#: include/custom/action-config.php:174
+msgid "Visual Composer"
+msgstr ""
+
+#: include/custom/action-config.php:184
+msgid "nrg-premium Plugins"
+msgstr ""
+
+#: include/custom/action-config.php:194
+msgid "nrg-premium Options"
+msgstr ""
+
+#: include/custom/action-config.php:241
+msgid "x"
+msgstr ""
+
+#: include/custom/action-config.php:360
+msgid "Type Style"
+msgstr ""
+
+#: include/custom/action-config.php:367
+msgid "Instagram user name: "
+msgstr ""
+
+#: include/custom/action-config.php:371
+msgid "Link to Instagram user profile: "
+msgstr ""
+
+#: include/custom/action-config.php:375
+msgid "Instagram user ID: "
+msgstr ""
+
+#: include/custom/action-config.php:379
+msgid "Instagram access token: "
+msgstr ""
+
+#: include/custom/action-config.php:383
+msgid "Instagram image limit: "
+msgstr ""
+
+#: include/custom/action-config.php:439 include/custom/helper-functions.php:136
+msgid "Address:"
+msgstr ""
+
+#: include/custom/action-config.php:446 include/custom/helper-functions.php:154
+#: include/header/header-4.php:21
+msgid "Email:"
+msgstr ""
+
+#: include/custom/action-config.php:455
+msgid "Contact us:"
+msgstr ""
+
+#: include/custom/action-config.php:472
+msgid "Title: "
+msgstr ""
+
+#: include/custom/action-config.php:544
+msgid "Posts limit: "
+msgstr ""
+
+#: include/custom/helper-functions.php:53
+msgid "facebook"
+msgstr ""
+
+#: include/custom/helper-functions.php:145 include/header/header-4.php:18
+#: include/header/header-7.php:21 include/header/header-7.php:24
+msgid "Reseption:"
+msgstr ""
+
+#: include/custom/helper-functions.php:362
+msgid "not found posts"
+msgstr ""
+
+#: include/custom/helper-functions.php:372
+msgid "not found pages"
+msgstr ""
+
+#: include/custom/helper-functions.php:385
+msgid "not found terms or terms empty"
+msgstr ""
+
+#: include/custom/helper-functions.php:396
+msgid "categories not is array"
+msgstr ""
+
+#: include/custom/helper-functions.php:399
+msgid "not found categories"
+msgstr ""
+
+#: include/custom/helper-functions.php:427
+msgid "Read more"
+msgstr ""
+
+#: include/custom/helper-functions.php:484
+msgid "Pingback:"
+msgstr ""
+
+#: include/custom/helper-functions.php:485
+msgid "(Edit)"
+msgstr ""
+
+#: include/custom/helper-functions.php:505
+msgid "Reply"
+msgstr ""
+
+#: include/custom/post-like.php:6 include/custom/post-like.php:191
+msgid "Like"
+msgstr ""
+
+#: include/custom/post-like.php:7 include/custom/post-like.php:187
+msgid "Unlike"
+msgstr ""
+
+#: include/custom/post-like.php:19
+msgid "Not permitted"
+msgstr ""
+
+#: include/custom/post-like.php:289
+msgid "You Like:"
+msgstr ""
+
+#: include/custom/post-like.php:315
+msgid "You do not like anything yet."
+msgstr ""
+
+#: include/footer/footer-2.php:25
+msgid "Subscribe |"
+msgstr ""
+
+#: include/header/header-1.php:29 include/header/header-10.php:26
+#: include/header/header-11.php:32 include/header/header-12.php:76
+#: include/header/header-2.php:27 include/header/header-3.php:28
+#: include/header/header-3.php:52 include/header/header-4.php:58
+#: include/header/header-5.php:33 include/header/header-6.php:29
+#: include/header/header-6.php:50 include/header/header-7.php:57
+#: include/header/header-8.php:30 include/header/header-9.php:24
+msgid "Please register Header Navigation from"
+msgstr ""
+
+#: include/header/header-1.php:29 include/header/header-10.php:26
+#: include/header/header-11.php:32 include/header/header-12.php:76
+#: include/header/header-2.php:27 include/header/header-3.php:28
+#: include/header/header-3.php:52 include/header/header-4.php:58
+#: include/header/header-5.php:33 include/header/header-6.php:29
+#: include/header/header-6.php:50 include/header/header-7.php:57
+#: include/header/header-8.php:30 include/header/header-9.php:24
+msgid "Appearance &gt; Menus"
+msgstr ""
+
+#: include/header/header-4.php:76
+msgid " item "
+msgstr ""
+
+#: include/header/header-4.php:76
+msgid " items "
+msgstr ""
+
+#: woocommerce/cart/cart-empty.php:14
+msgid "Your cart is currently empty."
+msgstr ""
+
+#: woocommerce/cart/cart-empty.php:20
+msgid "Return To Shop"
+msgstr ""
+
+#: woocommerce/cart/cart.php:21 woocommerce/cart/cart.php:59
+msgid "Product"
+msgstr ""
+
+#: woocommerce/cart/cart.php:22 woocommerce/cart/cart.php:75
+msgid "Price"
+msgstr ""
+
+#: woocommerce/cart/cart.php:23 woocommerce/cart/cart.php:80
+msgid "Quantity"
+msgstr ""
+
+#: woocommerce/cart/cart.php:24 woocommerce/cart/cart.php:95
+msgid "Total"
+msgstr ""
+
+#: woocommerce/cart/cart.php:42
+msgid "Remove this item"
+msgstr ""
+
+#: woocommerce/cart/cart.php:71
+msgid "Available on backorder"
+msgstr ""
+
+#: woocommerce/cart/cart.php:110
+msgid "Coupon:"
+msgstr ""
+
+#: woocommerce/cart/cart.php:110
+msgid "Coupon code"
+msgstr ""
+
+#: woocommerce/cart/cart.php:110
+msgid "Apply Coupon"
+msgstr ""
+
+#: woocommerce/cart/cart.php:114
+msgid "Update Cart"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:52
+msgid "Quantity: "
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:62
+msgid "subtotal:"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:68
+msgid "view cart"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:71
+msgid "checkout"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:75
+msgid "No products in the cart"
+msgstr ""
+
+#: woocommerce/global/quantity-input.php:24
+msgctxt "Product quantity input tooltip"
+msgid "Qty"
+msgstr ""
+
+#: woocommerce/loop/result-count.php:40
+#, php-format
+msgid "Products: "
+msgid_plural "Products: %d items"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/loop/result-count.php:42
+#, php-format
+msgctxt "%1$d = first, %2$d = last, %3$d = total"
+msgid "Products:"
+msgid_plural "Products: %1$d&ndash;%2$d of %3$d items"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product/related.php:52
+msgid "Related Products"
+msgstr ""
+
+#: woocommerce/single-product/related.php:55
+msgid "Mauris eleifend nisi justo, in volutpat magna scelerisque eget"
+msgstr ""
+
+#: woocommerce/single-product/add-to-cart/simple.php:46
+#: woocommerce/single-product/add-to-cart/variation-add-to-cart-button.php:20
+msgid "quantity:"
+msgstr ""
+
+#: woocommerce/single-product/add-to-cart/simple.php:63
+#: woocommerce/single-product/add-to-cart/variation-add-to-cart-button.php:30
+msgid "add to bag"
+msgstr ""
+
+#. Name of the theme
+msgid "NRG Premium"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"NRG Premium is a powerful, modern and creative WordPress theme for minimal "
+"loving creatives to showcase their work in a visually stunning layout."
+msgstr ""
+
+#. URI of the theme
+msgid "http://demo.nrgthemes.com/projects/"
+msgstr ""
+
+#. Author of the theme
+msgid "NRGThemes"
+msgstr ""
+
+#. Author URI of the theme
+msgid "http://themeforest.net/user/nrgthemes/"
+msgstr ""
